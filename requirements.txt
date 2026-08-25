@@ -1,0 +1,16 @@
+# core -- everything except the protein-language-model scripts runs on these
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+scikit-learn>=1.3
+mmh3>=4.0
+
+# additional hash families used by hash_ablation.py
+xxhash>=3.2
+
+# protein language model arms only (plm_frozen.py, plm_lora.py).
+# Install the torch build that matches your CUDA version; see pytorch.org.
+# torch>=2.1
+# transformers>=4.35
+# peft>=0.7
+# accelerate>=0.24

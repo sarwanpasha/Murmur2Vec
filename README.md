@@ -134,11 +134,6 @@ will overwrite each other.
 `hash_ablation/`. They are the raw per-split rows, not summary tables, so any
 aggregation or test can be recomputed from them. See `results/README.md`.
 
-## Data
-
-No sequence data is committed. See `data/README.md` for how to obtain the
-corpora and build them into the expected layout.
-
 ## License
 
 MIT. See `LICENSE`.

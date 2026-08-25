@@ -1,0 +1,7 @@
+corpus,embedding,held_lineage,n_novel,detection_auroc
+dedup,Murmur2Vec,B.1.177.21,9,0.5325134294599944
+dedup,Spike2Vec,B.1.177.21,9,0.40733672603901605
+dedup,Murmur2Vec,R.1,11,0.8508396062536189
+dedup,Spike2Vec,R.1,11,0.8282570932252461
+dedup,Murmur2Vec,B.1.1.214,13,0.7981381675649191
+dedup,Spike2Vec,B.1.1.214,13,0.8432141107300343
